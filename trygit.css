@@ -1,0 +1,15 @@
+.try{
+    border: 12px solid rgb(205, 221, 99);
+    margin: 10px;
+    padding: 10px;
+    text-align: justify;
+}
+#fy{
+    color: cadetblue;
+    font-style: italic;
+}
+#ty{
+    font-weight: 700;
+    color:chocolate;
+    background-color: rgba(85, 221, 221, 0.608) ;
+}
